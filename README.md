@@ -62,25 +62,16 @@ Database integration
 ERD documentation included
 
 Modular and scalable system design
-
-🛠️ Technologies Used
-
-Java (Swing GUI<img width="1919" height="1079" alt="Screenshot 2026-02-08 124011" src="https://github.com/user-attachments/assets/e9c87629-39a9-48c8-8483-bd20a617d5c6" />
-)
-
-MySQL (Main Database)
-<img width="1100" height="733" alt="Screenshot 2026-02-08 124122" src="https://github.com/user-attachments/assets/a93e9f2b-6ba6-42c1-9969-76fbc248f470" />
-<img width="1612" height="859" alt="Screenshot 2026-02-08 124117" src="https://github.com/user-attachments/assets/b9d30b62-8b03-4d5e-9ea6-b3c741b8b268" />
-<img width="1381" height="813" alt="Screenshot 2026-02-08 124109" src="https://github.com/user-attachments/assets/d8694646-874f-47f7-a312-a2eef7f34173" />
-<img width="1385" height="771" alt="Screenshot 2026-02-08 124058" src="https://github.com/user-attachments/assets/2e4c0f48-acd0-4005-8d70-14be7a6914ca" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124050" src="https://github.com/user-attachments/assets/d7cf7d02-d14f-4fdc-ad21-e8865d6b7cd1" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124044" src="https://github.com/user-attachments/assets/c45ccad2-65bb-4f15-8d5b-12f2eb623a8e" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124024" src="https://github.com/user-attachments/assets/930ee438-ff99-410f-866b-43a518a5cbc6" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124018" src="https://github.com/user-attachments/assets/b97589af-31f7-4470-9eaf-81329ca3a284" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124011" src="https://github.com/user-attachments/assets/fc1f2a80-5282-491f-a67c-45bcea423634" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 125720" src="https://github.com/user-attachments/assets/1f5ba05b-57ca-4cc8-805e-1bb0fc8e51e8" />
-
-<img width="1737" height="863" alt="Screenshot 2026-02-08 124135" src="https://github.com/user-attachments/assets/0089ef54-b299-4768-a4b8-1b8fc9f3c243" />
-<img width="1243" height="801" alt="Screenshot 2026-02-08 124128" src="https://github.com/user-attachments/assets/c948fb98-97d9-4c53-88ed-08d4771c391f" />
-
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124050" src="https://github.com/user-attachments/assets/fff834fc-15ea-495f-b7db-25747638d2a2" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124044" src="https://github.com/user-attachments/assets/dd2892f9-1cfe-4ac2-afa6-0da13282fd55" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124024" src="https://github.com/user-attachments/assets/f4dd4b1b-af19-455b-9283-73b455e11379" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124018" src="https://github.com/user-attachments/assets/6348e315-8a13-4dad-aaea-1c559ea8452e" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124011" src="https://github.com/user-attachments/assets/10da6fb6-a35c-4086-a1a1-8dca359d2dfb" />
+<img width="1398" height="866" alt="Screenshot 2026-02-08 124142" src="https://github.com/user-attachments/assets/5b753ad7-9c72-4e43-89de-5c32e791c27c" />
+<img width="1737" height="863" alt="Screenshot 2026-02-08 124135" src="https://github.com/user-attachments/assets/a749fd95-0805-41cc-bbeb-b4ea3805d97d" />
+<img width="1243" height="801" alt="Screenshot 2026-02-08 124128" src="https://github.com/user-attachments/assets/90045119-d6e7-49e6-bc56-aaa3b3158035" />
+<img width="1100" height="733" alt="Screenshot 2026-02-08 124122" src="https://github.com/user-attachments/assets/549bd7a9-3ab6-49e4-98ff-dc4ddc386844" />
+<img width="1612" height="859" alt="Screenshot 2026-02-08 124117" src="https://github.com/user-attachments/assets/e1a65199-b8b0-4e30-8c4c-c88e366bf79c" />
+<img width="1381" height="813" alt="Screenshot 2026-02-08 124109" src="https://github.com/user-attachments/assets/f376b1fd-7e14-4bbb-978c-55fcc0c2b88f" />
+<img width="1385" height="771" alt="Screenshot 2026-02-08 124058" src="https://github.com/user-attachments/assets/a23f2aba-ac18-4bfd-87e9-a6559640ceb5" />
 
