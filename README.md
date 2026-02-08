@@ -79,8 +79,7 @@ MySQL (Main Database)
 <img width="1919" height="1079" alt="Screenshot 2026-02-08 124018" src="https://github.com/user-attachments/assets/b97589af-31f7-4470-9eaf-81329ca3a284" />
 <img width="1919" height="1079" alt="Screenshot 2026-02-08 124011" src="https://github.com/user-attachments/assets/fc1f2a80-5282-491f-a67c-45bcea423634" />
 <img width="1919" height="1079" alt="Screenshot 2026-02-08 125720" src="https://github.com/user-attachments/assets/1f5ba05b-57ca-4cc8-805e-1bb0fc8e51e8" />
-<img width="1919" height="1069" alt="Screenshot 2026-02-08 125352" src="https://github.com/user-attachments/assets/66107570-e9d0-42d6-a429-9592d1342226" />
-<img width="1398" height="866" alt="Screenshot 2026-02-08 124142" src="https://github.com/user-attachments/assets/55f485f3-eebf-4022-8768-4cba4322115b" />
+
 <img width="1737" height="863" alt="Screenshot 2026-02-08 124135" src="https://github.com/user-attachments/assets/0089ef54-b299-4768-a4b8-1b8fc9f3c243" />
 <img width="1243" height="801" alt="Screenshot 2026-02-08 124128" src="https://github.com/user-attachments/assets/c948fb98-97d9-4c53-88ed-08d4771c391f" />
 
