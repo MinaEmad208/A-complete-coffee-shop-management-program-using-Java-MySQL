@@ -50,21 +50,6 @@ View all generated bills with details such as total amount, date, and the user w
 ⚙️ Key Features
 
 GUI-based desktop application
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124018" src="https://github.com/user-attachments/assets/d5dbfecc-b3f5-4ef1-9445-05347cbc3645" />
-
-Role-based access control (Admin/User)
-<img width="1385" height="771" alt="Screenshot 2026-02-08 124058" src="https://github.com/user-attachments/assets/41b781bd-2232-4297-8f5f-0def3c8abd38" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124050" src="https://github.com/user-attachments/assets/6f1dd19d-5af4-42f5-b790-b889fde06139" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124044" src="https://github.com/user-attachments/assets/1e5d1599-7786-43f6-9dbb-27948150919c" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 124024" src="https://github.com/user-attachments/assets/39947dd7-c3a6-4049-b90d-5e55b1f7d373" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 125720" src="https://github.com/user-attachments/assets/08414448-cbd3-46bd-bb4f-7ffebb3f311f" />
-<img width="1919" height="1069" alt="Screenshot 2026-02-08 125352" src="https://github.com/user-attachments/assets/9ad7c1b2-4934-4595-854e-37faa068d52b" />
-<img width="1398" height="866" alt="Screenshot 2026-02-08 124142" src="https://github.com/user-attachments/assets/1ab48d7f-b28e-4f54-9ac1-517f8fe47eeb" />
-<img width="1737" height="863" alt="Screenshot 2026-02-08 124135" src="https://github.com/user-attachments/assets/e0f5206d-cae5-4311-a3a5-04933c5cc16c" />
-<img width="1243" height="801" alt="Screenshot 2026-02-08 124128" src="https://github.com/user-attachments/assets/d4439d71-c7e4-4546-9c2c-05ff10033847" />
-<img width="1100" height="733" alt="Screenshot 2026-02-08 124122" src="https://github.com/user-attachments/assets/c41aafed-c4bf-4d7c-ae1d-278c42c0a7ee" />
-<img width="1612" height="859" alt="Screenshot 2026-02-08 124117" src="https://github.com/user-attachments/assets/45a80950-4761-41dd-812b-474be134b87e" />
-<img width="1381" height="813" alt="Screenshot 2026-02-08 124109" src="https://github.com/user-attachments/assets/3a95c315-7fe6-4891-9887-eed47a870405" />
 
 Secure authentication system
 
@@ -84,3 +69,19 @@ Java (Swing GUI<img width="1919" height="1079" alt="Screenshot 2026-02-08 124011
 )
 
 MySQL (Main Database)
+<img width="1100" height="733" alt="Screenshot 2026-02-08 124122" src="https://github.com/user-attachments/assets/a93e9f2b-6ba6-42c1-9969-76fbc248f470" />
+<img width="1612" height="859" alt="Screenshot 2026-02-08 124117" src="https://github.com/user-attachments/assets/b9d30b62-8b03-4d5e-9ea6-b3c741b8b268" />
+<img width="1381" height="813" alt="Screenshot 2026-02-08 124109" src="https://github.com/user-attachments/assets/d8694646-874f-47f7-a312-a2eef7f34173" />
+<img width="1385" height="771" alt="Screenshot 2026-02-08 124058" src="https://github.com/user-attachments/assets/2e4c0f48-acd0-4005-8d70-14be7a6914ca" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124050" src="https://github.com/user-attachments/assets/d7cf7d02-d14f-4fdc-ad21-e8865d6b7cd1" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124044" src="https://github.com/user-attachments/assets/c45ccad2-65bb-4f15-8d5b-12f2eb623a8e" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124024" src="https://github.com/user-attachments/assets/930ee438-ff99-410f-866b-43a518a5cbc6" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124018" src="https://github.com/user-attachments/assets/b97589af-31f7-4470-9eaf-81329ca3a284" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 124011" src="https://github.com/user-attachments/assets/fc1f2a80-5282-491f-a67c-45bcea423634" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 125720" src="https://github.com/user-attachments/assets/1f5ba05b-57ca-4cc8-805e-1bb0fc8e51e8" />
+<img width="1919" height="1069" alt="Screenshot 2026-02-08 125352" src="https://github.com/user-attachments/assets/66107570-e9d0-42d6-a429-9592d1342226" />
+<img width="1398" height="866" alt="Screenshot 2026-02-08 124142" src="https://github.com/user-attachments/assets/55f485f3-eebf-4022-8768-4cba4322115b" />
+<img width="1737" height="863" alt="Screenshot 2026-02-08 124135" src="https://github.com/user-attachments/assets/0089ef54-b299-4768-a4b8-1b8fc9f3c243" />
+<img width="1243" height="801" alt="Screenshot 2026-02-08 124128" src="https://github.com/user-attachments/assets/c948fb98-97d9-4c53-88ed-08d4771c391f" />
+
+
